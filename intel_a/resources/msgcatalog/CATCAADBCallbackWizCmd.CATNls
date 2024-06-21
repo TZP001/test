@@ -1,6 +1,0 @@
-Title = "Callback mapping";
-LabelWidget.Title = "Object ID";
-LabelClass.Title = "Class name:";
-LabelMessages.Title = "Messages:";
-CreateCB.Title = "Add callback...";
-CallbackName.CBNameLabel.Title = "Function Name:";

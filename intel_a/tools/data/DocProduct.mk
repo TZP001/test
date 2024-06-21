@@ -1,7 +1,0 @@
-C2 = CATIA
-D2 = DELMIA
-E2 = DMU
-L2 = DMU
-O2 = DMU
-W2 = DELMIA
-V2 = DMU

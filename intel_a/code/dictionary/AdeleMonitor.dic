@@ -1,8 +1,0 @@
-ADLMonitorAccess                        CATIADLMonitorAccess       libADLMoClnt
-ADLMonitorAccess                        CATICreateInstance         libADLMoClnt
-
-ADLMoLock                               CATIADLMoLock              libADLMoClientServer
-ADLMoLock                               CATICreateInstance         libADLMoClientServer
-
-ADLMoCommand                            CATIADLMoCommand           libADLMoClientServer
-ADLMoCommand                            CATICreateInstance         libADLMoClientServer

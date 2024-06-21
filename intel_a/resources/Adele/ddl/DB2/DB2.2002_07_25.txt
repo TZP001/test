@@ -1,5 +1,0 @@
-------------------------------- Add new columns in transfer table -----------------------------------
-
-[Departmental Step 1]
-ALTER TABLE adl.transfer
-ADD is_server    VARCHAR(512);

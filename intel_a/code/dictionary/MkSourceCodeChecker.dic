@@ -1,4 +1,0 @@
-#
-mkcsErrorManagerSqlite mkcsErrorManagerIntf libmkcsSqlite
-mkcsErrorManagerSqlite CATICreateInstance libmkcsSqlite
-#

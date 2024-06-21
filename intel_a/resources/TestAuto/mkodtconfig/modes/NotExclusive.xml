@@ -1,5 +1,0 @@
-<?xml version="1.0" ?>
-<MODE description="Mode with maxp = 100">
-<MKODTOPTIONS jobs="1" pertinence="no" updateinit="no" />
-<MAXP value="100" />
-</MODE>
